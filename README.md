@@ -15,7 +15,7 @@ In this repository I bring nice discussion on machine learning models which are 
 ### Required packages:
 * [graphviz](https://pypi.org/project/graphviz/)
 * [skelrean packages](https://scikit-learn.org/stable/index.html)
-  * [KNN] (https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+  * [KNN](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
   * [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
   * [Random Forests](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
   * [ExtraTreesClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html#sklearn.ensemble.ExtraTreesClassifier) 
