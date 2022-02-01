@@ -12,6 +12,10 @@ In this repository I bring nice discussion on machine learning models which are 
 
   This notebook talks about Ensemble Methods such as Random Forests, Extremly Random Forests and Gradient Boosting Trees.
   
+ * Regression:
+  
+  Nice review in regression concept plus its implementation in machine learning. 
+  
 ### Required packages:
 * [graphviz](https://pypi.org/project/graphviz/)
 * [skelrean packages](https://scikit-learn.org/stable/index.html)
