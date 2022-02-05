@@ -4,6 +4,9 @@
 In this repository I bring nice discussion on machine learning models which are commonly used in this field. This repository will be updated every often to have more and new codes. 
 
 ### Available codes
+* Machine_Learning_Categories.ipynb
+  In this notebook, I give a brief explanation about the different *Machine Learning* methods.
+  
 * KNN_Classification_1.ipynb
 
   In this notebook the KNN method is investigated in multiclass classification problem.
