@@ -5,8 +5,8 @@ In this repository I bring nice discussion on machine learning models which are 
 
 ### Available codes
 - To understand the fundamental concepts:
-* cost_function_computation.ipynb
-* multi_variable_linear_regression.ipynb
+  * cost_function_computation.ipynb
+  * multi_variable_linear_regression.ipynb
 
 * Machine_Learning_Categories.ipynb
 
