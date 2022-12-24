@@ -4,6 +4,10 @@
 In this repository I bring nice discussion on machine learning models which are commonly used in this field. This repository will be updated every often to have more and new codes. However, there are some discussions here to explain the fundamental concepts.
 
 ### Available codes
+- To understand the fundamental concepts:
+* cost_function_computation.ipynb
+* multi_variable_linear_regression.ipynb
+
 * Machine_Learning_Categories.ipynb
 
   In this notebook, I give a brief explanation about the different *Machine Learning* methods.
